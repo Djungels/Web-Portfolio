@@ -12,12 +12,12 @@ const projects = [
   {
     id: "p1",
     caseId: "CASE-001",
-    status: "In Development",
+    status: "Completed",
     statusColor: "#00d4ff",
-    title: "Network Intrusion Detection System",
-    tags: ["Python", "Network Security", "Malware Detection"],
+    title: "IT/OT CyberRange",
+    tags: ["Python", "Network Security", "Malware Detection", "Infrastructure Administration"],
     description:
-      "Custom IDS built with Python to monitor network traffic for anomalous patterns and known threat signatures. Implements signature-based and heuristic detection methods.",
+      "The Cyber Range is a training environment with a multitude of scenarios. It simulates network configuration, including both conventional IT systems and niche OT Devices.",
     domain: "Threat Detection",
   },
   {
