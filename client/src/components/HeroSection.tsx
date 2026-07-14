@@ -128,7 +128,7 @@ export default function HeroSection() {
               letterSpacing: "-0.02em",
             }}
           >
-            Your Name
+            Ethan Koh
           </motion.h1>
 
           {/* Typing role */}

@@ -10,20 +10,20 @@ import { toast } from "sonner";
 const contactLinks = [
   {
     label: "Email",
-    value: "your.email@example.com",
-    href: "mailto:your.email@example.com",
+    value: "ethankoh02@gmail.com",
+    href: "mailto:ethankoh02@gmail.com",
     icon: "✉",
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/yourprofile",
-    href: "https://linkedin.com",
+    value: "Ethan Koh",
+    href: "https://www.linkedin.com/in/ethan-koh-aa040b1a3/",
     icon: "in",
   },
   {
     label: "GitHub",
-    value: "github.com/yourusername",
-    href: "https://github.com",
+    value: "https://github.com/Djungels",
+    href: "https://github.com/Djungels",
     icon: "⌥",
   },
 ];

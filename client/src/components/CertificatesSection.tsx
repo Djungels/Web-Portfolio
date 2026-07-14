@@ -22,7 +22,7 @@ const certificates = [
     id: "ai-ethics",
     title: "AI Ethics & Governance",
     abbr: "AI-EG",
-    issuer: "Professional Certification Body",
+    issuer: "Singapore Computer Society",
     description:
       "Demonstrates understanding of ethical frameworks, governance models, and responsible AI deployment — critical for IT professionals working with AI-driven security tools.",
     relevance: "AI Governance · Risk Management · Policy",
