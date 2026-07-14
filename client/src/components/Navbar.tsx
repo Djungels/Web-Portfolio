@@ -9,9 +9,12 @@ const navLinks = [
   { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
   { label: "Certificates", href: "#certificates" },
+  { label: "Experience", href: "#experience" },
+  { label: "Education", href: "#education" },
   { label: "Projects", href: "#projects" },
   { label: "Contact", href: "#contact" },
 ];
+
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
