@@ -23,7 +23,7 @@ const education = [
     graduationDate: "Graduated 2024",
     description:
       "Awards: Director's List 2021",
-    highlights: ["Cisco Networking","System Administration","Network Administration","Linux System Administration", "Web Development","Computer Forensics","Malware Analysis","Digital Forensics","Network Security","Mobile Forensics"],
+    highlights: ["Cisco Networking","System Administration","Network Administration","Linux System Administration", "Web Development","Computer Forensics","Malware Analysis","Digital Forensics","Network Security","Mobile Forensics","CDFSIG ISACA Honorary Secretary"],
   },
   {
     id: "edu3",
